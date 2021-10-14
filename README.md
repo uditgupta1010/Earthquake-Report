@@ -17,4 +17,5 @@ covered in the detailed report.
 Thus, the users of our app have all the available
 knowledge of the natural disaster and can use it for ensuring their safety.
 
-Document - [Earthquake Report document.pdf](https://github.com/uditgupta1010/Earthquake-Report/files/7347603/Earthquake.Report.document.pd
+Document - 
+[Earthquake Report document.pdf](https://github.com/uditgupta1010/Earthquake-Report/files/7347623/Earthquake.Report.document.pdf)
